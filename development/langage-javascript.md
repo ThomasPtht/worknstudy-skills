@@ -64,6 +64,6 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai ecrit un [tutoriel](...) : ✔️ METHODES JS : https://www.linkedin.com/posts/thomas-potherat-923868166_javascript-array-methods-activity-7149092564686565376-dCRA?utm_source=share&utm_medium=member_desktop
 - J'ai fait une [présentation](...) ❌ 
 
