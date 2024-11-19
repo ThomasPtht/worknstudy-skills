@@ -6,29 +6,29 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP  ✔️
+- les statuts HTTP ❌ 
+- les endpoints ✔️
+- CORS ❌ 
+- la nomenclature recommandée pour les routes ❌ 
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[lien github](...) : https://github.com/ThomasPtht/Mon-vieux-grimoire
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
 Description :
 
@@ -36,7 +36,7 @@ Description :
 
 ### Titre
 
-- lien
+- lien : https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web
 - description
 
 ## 🚧 Je franchis les obstacles
@@ -55,5 +55,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
