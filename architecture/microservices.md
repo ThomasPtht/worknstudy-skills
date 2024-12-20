@@ -6,7 +6,7 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les différences avec l'architecture monolithique ❌ 
+- les différences avec l'architecture monolithique ✔️
 - la communication asynchrone entre services ❌ 
 - le deploiement d'un cluster ❌ 
 
