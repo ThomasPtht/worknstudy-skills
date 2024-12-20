@@ -6,8 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la création d'une image docker ❌ / ✔️
-- l'éxécution d'un container ❌ / ✔️
+- la création d'une image docker ✔️
+- l'éxécution d'un container ❌ 
 - l'orchestration de containers avec docker-compose ❌ / ✔️
 
 
@@ -35,7 +35,7 @@ Description :
 
 ### Titre
 
-- lien
+- lien :  documentation docker, youtube..
 - description
 
 ## 🚧 Je franchis les obstacles
@@ -54,5 +54,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
